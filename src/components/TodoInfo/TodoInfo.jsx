@@ -12,3 +12,5 @@ export const TodoInfo = ({ todo }) => {
     </article>
   );
 };
+
+// sync package-lock
